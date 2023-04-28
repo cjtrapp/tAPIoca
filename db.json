@@ -28,16 +28,16 @@
       "@type": "Person",
       "id": "1",
       "name": "Jimmy Green",
-      "description": "He's not blue or yellow.",
+      "description": "He does not like pickles",
       "itemId": "1"
     },
     {
       "@context": "https://schema.org",
       "@type": "Person",
       "id": "2",
-      "name": "Alanis Argon",
-      "description": "She's inert, don't cha think?",
-      "itemId": "1"
+      "name": "Blaine Smith",
+      "description": "Making money is his mission",
+      "itemId": "2"
     }
   ],
   "collection": {
