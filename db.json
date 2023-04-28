@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Photograph",
+      "id": "1",
+      "name": "Grilled brie panini",
+      "description": "Image of panini-style gourmet grilled cheese, cut in half"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "2",
+      "name": "Fossil Creek Food Truck Rally",
+      "description": "Poster advertising 2023 food truck rally series in Fort Collins, Colorado"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Photograph",
+      "id": "3",
+      "name": "Summer gathering",
+      "description": "Image of people gathered in front of the Goodness food truck, Summer 2022"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "Jimmy Green",
+      "description": "He's not blue or yellow.",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "Alanis Argon",
+      "description": "She's inert, don't cha think?",
+      "itemId": "1"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "cjtrapp's Goodness API",
+    "creator": "cjtrapp",
+    "about": "A photo essay of a seasonal NoCo food truck business",
+    "url": "https://www.instagram.com/goodnesstruck/?hl=en"
+  }
+}
